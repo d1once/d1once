@@ -4,6 +4,8 @@
 
 ### Connect with me:
 [<img align="left" alt="dionce | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dionce | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
 
 <br />
 
@@ -26,3 +28,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/dionis-senja-695492204/
+[discord]: https://discord.com/users/@_dioncE#3879
