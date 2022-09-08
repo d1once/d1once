@@ -1,5 +1,5 @@
 ###  👋 Hi, I’m Dionis Senja aka @d1once
-- 👀 I’m interested in Web Dev
+- 👀 I’m interested in Web Dev & Game Dev
 - 🌱 I’m currently learning everything tech&web related
 
 ### Connect with me:
