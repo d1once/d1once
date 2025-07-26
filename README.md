@@ -10,7 +10,7 @@ Welcome to my corner of the digital world! I'm a passionate developer who believ
 - 🌱 **Learning:** Next.js, advanced React patterns, AI integration in development workflows
 - 💪 **Philosophy:** Believer in holistic growth - strong body, sharp mind, clean code
 - 🎯 **Goal:** Building meaningful applications that solve real problems
-- 🎮 **Fun Fact:** Gaming enthusiast who appreciates the art of game design (even if I don't develop them anymore!)
+- 🎮 **Fun Fact:** Gaming enthusiast who appreciates the art of game design.
 
 ## 🛠️ Tech Stack & Tools
 
